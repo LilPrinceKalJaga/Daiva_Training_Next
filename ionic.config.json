@@ -1,0 +1,7 @@
+{
+  "name": "PushMessage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
